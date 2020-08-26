@@ -1,0 +1,2 @@
+# penggajian
+penggajian laravel
